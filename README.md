@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+#康爸爸的好店推荐
 
-You can use the [editor on GitHub](https://github.com/kangbaba/goodstuff.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##说在前面
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+经历近两年来收藏的一些家居店铺，推荐给准备装修或准备进行软装的朋友
+
+:blush::star:
+
+> Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
