@@ -31,9 +31,7 @@
 
 ##### 关键词 `都市` `北欧` `时髦 ` `高脚风 `
 
-![涵客家居-1](https://note.youdao.com/yws/public/resource/3354ffead6337526efbe9f0e143372a3/xmlnote/WEBRESOURCEbe03b4855b6b6d52f80195bbefb17ae2/3442)
-![涵客家居-2](https://note.youdao.com/yws/public/resource/3354ffead6337526efbe9f0e143372a3/xmlnote/WEBRESOURCEe8fee9ace5a282686e6150b2d877156e/3449
-)
+![涵客家居-1](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE53ce8a59359673a1433c94982f0e7722/4573)
 
 #### 推荐理由
 
