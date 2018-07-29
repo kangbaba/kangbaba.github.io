@@ -112,7 +112,7 @@
 
 ##### 关键词 `北欧` `混搭` `原创` `小众` `亲近感` 
 
-![minimore](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCEaaf374666d47cff7d4b9bb9030e5b439/3767)
+![minimore](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE56f3fb2a61d958e593e3924495dd288f/4570)
 
 #### 推荐理由
 
