@@ -1,6 +1,9 @@
-# 康爸爸的好店推荐
+![cover
+](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE22ca60a00eaca47bc77173993dc7b1eb/4535)
 
-#### 写在前面
+### 康爸爸的好店推荐
+
+##### 写在前面
 因为两年前经历了一次装修，从此一头扎进家居的坑里不能自拔...以至于每去一个城市，都会提前标记当地的家居店，一定要去走一走（谢谢杨掰掰的包容:kissing_heart:）。最近被几位朋友问到有没有推荐的淘宝店铺，索性就整理一份家居店清单吧:blush:（第一期以家具店为主，后续会整理家居小物推荐）。我会放出可以体现店内家具风格及主打款式的主图，并标明店铺的信誉等信息。
 
 以下推荐纯属个人喜好，请吃瓜心态浏览就好
@@ -8,13 +11,11 @@
 鞠躬～
 
 ---
-## 风格：新都市
+### 风格：新都市
 
 #### [Hancock Home 涵客家居](https://hancockhome.jiyoujia.com/shop/view_shop.htm?shop_id=102742913)
 
-#### 关键词
-
-`都市` `北欧` `时髦 ` `高脚风 `
+##### 关键词 `都市` `北欧` `时髦 ` `高脚风 `
 
 ![涵客家居-1](https://note.youdao.com/yws/public/resource/3354ffead6337526efbe9f0e143372a3/xmlnote/WEBRESOURCEbe03b4855b6b6d52f80195bbefb17ae2/3442)
 ![涵客家居-2](https://note.youdao.com/yws/public/resource/3354ffead6337526efbe9f0e143372a3/xmlnote/WEBRESOURCEe8fee9ace5a282686e6150b2d877156e/3449
@@ -30,8 +31,7 @@
 
 #### [SuFan 舒梵北欧复刻家居](https://shop149135015.taobao.com/shop/view_shop.htm?shop_id=149135015)
 
-#### 关键词
-`都市` `北欧` `丝绒` `经典复刻` `现货`
+##### 关键词 `都市` `北欧` `丝绒` `经典复刻` `现货`
 
 ![舒梵-1](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE20623cce3578e05787b94fbc1c8d53e5/3516)
 ![舒梵-2](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE5a98fb010c21e4fed429846ad7510cb0/4478)
@@ -48,9 +48,7 @@
 
 #### [norhor旗舰店](https://norhor.tmall.com/shop/view_shop.htm?shop_id=104132101)
 
-#### 关键词
-
-`都市` `时髦` `轻奢` `品牌` `胡桃木` 
+##### 关键词 `都市` `时髦` `轻奢` `品牌` `胡桃木` 
 
 ![北欧表情](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCEb71325dc52e248ec8b90dcc8eabab2fa/3719)
 
@@ -76,9 +74,7 @@
 
 ### [HAY](https://hayjiaju.tmall.com/?spm=a1z10.4-b-s.w5001-17171783874.2.4faf4fe5w8nlVS&scene=taobao_shop)
 
-#### 关键词
-
-`北欧` `生活品牌` `工业化` `极简` `摩登`
+##### 关键词 `北欧` `生活品牌` `工业化` `极简` `摩登`
 
 ![HAY](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE739c11e0bec860349455c507557b3e62/4452)
 
@@ -99,9 +95,7 @@
 
 ### [minimore](https://mm-home.taobao.com/shop/view_shop.htm?shop_id=72291044)
 
-#### 关键词
-
-`北欧` `混搭` `原创` `小众` `亲近感` 
+##### 关键词 `北欧` `混搭` `原创` `小众` `亲近感` 
 
 ![minimore](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCEaaf374666d47cff7d4b9bb9030e5b439/3767)
 
@@ -119,9 +113,7 @@
 
 ### [pole北欧家居](https://polehome.taobao.com/shop/view_shop.htm?shop_id=62104268)
 
-#### 关键词
-
-`都市` `北欧` `日式` `定制` `实木` `混杂`
+##### 关键词 `都市` `北欧` `日式` `定制` `实木` `混杂`
 
 ![pole北欧家居](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCEdb63b8477ae08516a8466a77d58a84f9/4066)
 
@@ -135,11 +127,11 @@
 
 ---
 
-## 风格：新中式
+### 风格：新中式
 
 ### [吱音](https://ziin.jiyoujia.com/shop/view_shop.htm?shop_id=105552592)
 
-`新中式` `原创` `温暖俏皮` `品牌` `原木`
+##### 关键词 `新中式` `原创` `温暖俏皮` `品牌` `原木`
 
 ![吱音](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCEcea324767db306466e2a32466e540f59/3794)
 
@@ -169,9 +161,7 @@
 
 ### [木迹制品](https://mojipro.jiyoujia.com/shop/view_shop.htm?shop_id=66208423)
 
-#### 关键词
-
-`新中式` `北欧` `原创` `实木` 
+##### 关键词 `新中式` `北欧` `原创` `实木` 
 
 ![木迹制品](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCEae39bd83e7b2250f80d2231fc2acb880/3839)
 
@@ -187,9 +177,7 @@
 
 ### [熹山工坊](https://xishangongfang.jiyoujia.com/shop/view_shop.htm?shop_id=69935624)
 
-#### 关键词
-
-`日式` `新中式` `实木` `温暖` `老干部`
+##### 关键词 `日式` `新中式` `实木` `温暖` `老干部`
 
 ![熹山工坊](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE88837c818d334b9ef6cfbd958286e184/3856)
 
@@ -213,9 +201,7 @@
 
 ### [春沐家几象家居](https://chunmu-jia.jiyoujia.com/shop/view_shop.htm?shop_id=102374049)
 
-#### 关键词
-
-`新中式` `日式` `混搭` `原木`
+##### 关键词 `新中式` `日式` `混搭` `原木`
 
 ![春沐家几象家居](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE3846cf2fcf675557f95485c6ed45a8b0/3892)
 
@@ -231,9 +217,7 @@
 
 ### [光阴木器](https://koin-furniture.taobao.com/shop/view_shop.htm?shop_id=72382188)
 
-#### 关键词
-
-`日式` `新中式` `原木` `温暖` `实用`
+##### 关键词 `日式` `新中式` `原木` `温暖` `实用`
 
 ![光阴木器](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE327b5529b75b0c616e1734f9e8edc912/3915)
 
@@ -249,9 +233,7 @@
 
 ### [素元木作](https://thrudesign.taobao.com/?spm=a1z10.4-c-s.0.0.391a138drf0KM6)
 
-#### 关键词
-
-`新中式` `禅意` `胡桃木` `原创` `workshop` 
+##### 关键词 `新中式` `禅意` `胡桃木` `原创` `workshop` 
 
 ![素元木作](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCEfab0a528b04727097b27711395a2a58a/3934)
 
@@ -275,9 +257,7 @@
 
 ### [凡屋](https://thefunhouse.taobao.com/shop/view_shop.htm?shop_id=105003257)
 
-#### 关键词
-
-`北欧` `日式` `混合` `原木` `踏实` `实用`
+##### 关键词 `北欧` `日式` `混合` `原木` `踏实` `实用`
 
 ![凡屋](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE9e872e138f7d905b637c063b234faceb/3965)
 
@@ -295,9 +275,7 @@
 
 ### [失物招领](https://lf2008.taobao.com/shop/view_shop.htm?shop_id=71036919)
 
-#### 关键词
-
-`日式` `温暖` `实木` `小户型`
+##### 关键词 `日式` `温暖` `实木` `小户型`
 
 ![失物招领](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE4f523193eb07a63c353522f24836ffeb/3989)
 
@@ -324,9 +302,7 @@
 
 ### [MUMO木墨](https://mumojiaju.tmall.com/shop/view_shop.htm?spm=a230r.7195193.1997079397.2.KlIcN0)
 
-#### 关键词
-
-`新中式` `实木` `环保` `自有工厂` `温暖` 
+##### 关键词 `新中式` `实木` `环保` `自有工厂` `温暖` 
 
 ![MUMO木墨](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE4570c341b128e460f3c5f55b25d9e971/4009)
 
@@ -350,9 +326,7 @@
 
 ### [十二时慢](https://12shiman.jiyoujia.com/shop/view_shop.htm?shop_id=122380181)
 
-#### 关键词
-
-`新中式` `极简` `原创` `胡桃木` 
+##### 关键词 `新中式` `极简` `原创` `胡桃木` 
 
 ![十二时慢](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE93ebf12039880bd6346c2c3d358bf471/3478)
 ![十二时慢-2](https://note.youdao.com/yws/public/resource/3354ffead6337526efbe9f0e143372a3/xmlnote/WEBRESOURCE0d161829860eaa00f29bd878bc1c2bd0/3491)
@@ -375,9 +349,7 @@
 
 ### [挑时 tells](https://shop115936232.taobao.com/shop/view_shop.htm?user_number_id=744131262)
 
-#### 关键词
-
-`新中式` `都市` `时髦` `多材质` `混搭` `原创`
+##### 关键词 `新中式` `都市` `时髦` `多材质` `混搭` `原创`
 
 ![挑时-1](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCEe22fa3ae5cec182ee4c634634fc7f097/3532)
 ![挑时-2](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCEf3eeb860626825a3bd2a7cbaabff6d51/4428)
@@ -393,9 +365,7 @@
 
 ### [二黑木作](https://tooblack.jiyoujia.com/shop/view_shop.htm?shop_id=113767108)
 
-#### 关键词
-
-`日式` `北欧` `原创` `藤编` `原木`
+##### 关键词 `日式` `北欧` `原创` `藤编` `原木`
 
 ![二黑木作](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE3b5f2b3bd7508e5de8ad45517173d559/4112)
 
@@ -411,9 +381,7 @@
 
 ### [山河即木](https://remaker.jiyoujia.com/?spm=a1z10.3-c.0.0.14cb419d42sgUj)
 
-#### 关键词
-
-`小件家具` `新中式` `胡桃木` `黄铜` `原创`
+##### 关键词 `小件家具` `新中式` `胡桃木` `黄铜` `原创`
 
 ![山河即木](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE50d02b9a53fdaefa58dc3f0deab91822/4248)
 
@@ -429,9 +397,7 @@
 
 ### [集木事务所](https://shop155387556.taobao.com/shop/view_shop.htm?shop_id=155387556)
 
-#### 关键词
-
-`小件家具` `都市` `金属` `丝绒` `简约` 
+##### 关键词 `小件家具` `都市` `金属` `丝绒` `简约`
 
 ![集木事务所](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE22f04b335406857e0e71a9e7d4053812/4084)
 
@@ -445,13 +411,11 @@
 
 ---
 
-## 小众少见风格
+### 小众少见风格
 
 ### [inyard 宜氧](https://inyard.jiyoujia.com/shop/view_shop.htm?shop_id=64470308)
 
-#### 关键词
-
-`少见风格` `合作设计师` `模块化` `小众` `原创` `趣味`
+##### 关键词 `少见风格` `合作设计师` `模块化` `小众` `原创` `趣味`
 
 ![inyard 宜氧](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE2d0d15997e4eb1816a37fbf006dbf7da/4141)
 
@@ -469,9 +433,7 @@
 
 ### [xiang casa](https://xiangcasa.taobao.com/shop/view_shop.htm?shop_id=142741630)
 
-#### 关键词
-
-`少见风格` `建筑风` `小众` `趣味`
+##### 关键词 `少见风格` `建筑风` `小众` `趣味`
 
 ![xiang casa](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE035c6c5c8012f2dd75e06b21e53d5aac/4473)
 
@@ -486,9 +448,7 @@
 
 ### [有所](https://yusoidea.jiyoujia.com/shop/view_shop.htm?shop_id=116839400)
 
-#### 关键词
-
-`少见风格` `拟物` `趣味` `可爱`
+##### 关键词 `少见风格` `拟物` `趣味` `可爱`
 
 ![有所](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCEaa22d7aec78a0d00155cc09d7af368f4/4175)
 
@@ -506,9 +466,7 @@
 
 ### [Blackrock 黑石清水混凝土](https://blackrock-design.jiyoujia.com/shop/view_shop.htm?shop_id=128307930)
 
-#### 关键词
-
-`少见风格` `混凝土` `工业风` `冷感` `小件家具` `环保`
+##### 关键词 `少见风格` `混凝土` `工业风` `冷感` `小件家具` `环保`
 
 ![blackrock 黑石清水混凝](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE5008aaa596e9d621f7305bb4bbc6993b/4402)
 
@@ -522,13 +480,11 @@
 
 ---
 
-## 中古vintage
+### 中古vintage
 
 ### [coznap北欧中古家具](https://coznap.taobao.com/shop/view_shop.htm?shop_id=58622687)
 
-#### 关键词
-
-`中古vintage` `杂货` 
+##### 关键词 `中古vintage` `杂货` 
 
 ![coznap](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE4d801c68e7ed0561f72e9b384fe8d52e/4276)
 
@@ -552,9 +508,7 @@
 
 ### [丹瑞万象进口古董家具]
 
-#### 关键词
-
-`中古vintage` `杂货` 
+##### 关键词 `中古vintage` `杂货` 
 
 ![丹瑞万象](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE99ffd652ebb4c841077e67fd6b07992d/4308)
 
@@ -575,9 +529,7 @@
 
 ### [MUE Retro 北欧中古家具](https://shop163274253.taobao.com/shop/view_shop.htm?shop_id=163274253)
 
-#### 关键词
-
-`北欧``中古vintage` `原版大师级作品` `品相好` `柚木` `贵` 
+##### 关键词 `北欧``中古vintage` `原版大师级作品` `品相好` `柚木` `贵` 
 
 ![MUE Retro](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE058c39ce9c9d44aea351709f9fd007f3/4343)
 
@@ -599,9 +551,7 @@
 
 ## [回到二十世纪](https://shop165934133.taobao.com/?spm=a230r.7195193.1997079397.2.1SFzc7)
 
-#### 关键词
-
-`中古vintage` `少见风格` `原版进口`
+##### 关键词 `中古vintage` `少见风格` `原版进口`
 
 ![回到二十世纪](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE78229040968cc5daab66bf3305704735/4511)
 
@@ -623,9 +573,7 @@
 
 ### [agehome](https://agehome.taobao.com/shop/view_shop.htm?shop_id=136967391)
 
-#### 关键词
- 
-`中古vintage` `杂货` `柚木`
+##### 关键词 `中古vintage` `杂货` `柚木`
 
 ![agehome](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCEbbaef033ad25ce4f6a06003116bb49cf/4372)
 
