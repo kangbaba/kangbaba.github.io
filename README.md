@@ -344,7 +344,7 @@
 ##### 关键词 `新中式` `极简` `原创` `胡桃木` 
 
 ![十二时慢](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE93ebf12039880bd6346c2c3d358bf471/3478)
-![十二时慢-2](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE3ac33c1ac0257e93ffed4c5d1cfa537c/4563)
+![十二时慢-2](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCEf4af07dbe9c3cb284ad8f709c662b4ee/4566)
 
 #### 推荐理由
 
@@ -570,7 +570,7 @@
 
 ![回到二十世纪](https://note.youdao.com/yws/public/resource/ffc72cf0b61c854806782c7234261a5c/xmlnote/WEBRESOURCE78229040968cc5daab66bf3305704735/4511)
 
-####推荐理由
+#### 推荐理由
 
 > - 以博物馆的概念去装饰家，重回20世纪的纯粹和风华
 > 
