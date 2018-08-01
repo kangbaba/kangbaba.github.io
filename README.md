@@ -7,7 +7,7 @@
 
 
 共29家店，分为4类：
- - <a href="jump">都市风格</a>
+ - <a href="#jump">都市风格</a>
 
  - 新中式
 
@@ -35,7 +35,7 @@
 鞠躬～
 
 ---
-### <a id="jump"></a>都市风格
+### <a href="#jump"></a>都市风格
 
 #### [Hancock Home 涵客家居](http://kdmkib.cn/TO8a90)
 
